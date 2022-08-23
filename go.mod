@@ -1,4 +1,4 @@
-module github.com/posthog/posthog-go
+module github.com/dselans/posthog-go
 
 go 1.15
 
